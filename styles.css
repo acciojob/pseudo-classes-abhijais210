@@ -19,5 +19,8 @@ li:nth-child(3){
     background-color: pink;
 }
 body{
-    background-color: skyblue;
+    background-color: rgb(135, 206, 235);
+}
+body:root{
+    background-color: rgb(135, 206, 235);
 }
